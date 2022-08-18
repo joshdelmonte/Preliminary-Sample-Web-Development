@@ -24,6 +24,7 @@
 ## Usage
 
 -The links beneath the Hoseon header of the page allow you immediate focus to that selected section of the page
+![](assets/images/readme-screenshot-1.png)
 
 ## Credits
 
