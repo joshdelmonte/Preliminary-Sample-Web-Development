@@ -1,14 +1,14 @@
-# WK1-HW-WEBPAGE
+# PRELIMINARY-WEBPAGE
 
 ## Description
 
-    The motivation of this project was to refactor and debug the code to a more condense form for both HTML and CSS to reresent 95% of the original.
+    -The motivation of this project was to refactor and debug the code to a more condense form for both HTML and CSS to reresent 95% of the original.
 
-    The reason being I wanted to hone my refactoring skills and further understanding the alteration of a webpage to function while accomodating a handicap friendly layout.
+   - The reason being I wanted to hone my refactoring skills and further understanding the alteration of a webpage to function while accomodating a handicap friendly layout.
 
-    This solves the issue of having too much code while still making the page functional for users.
+    -This solves the issue of having too much code while still making the page functional for users.
 
-    From this all, I've learned and will continue to learn the art of refactoring and making a page more user friendly.
+    -From this all, I've learned and will continue to learn the art of refactoring and making a page more user friendly.
 
 
 - [Installation](#installation)
